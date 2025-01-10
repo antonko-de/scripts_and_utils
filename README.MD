@@ -18,16 +18,14 @@ This repository contains a set of scripts and tools that can be used to perform 
 
 The `scripts` directory contains batch files, shell scripts, or executable scripts that can be run directly on the system.
 
-* [example_script.sh](./scripts/example_script.sh) - A sample shell script demonstrating basic usage.
-* [other_scripts.bat](./scripts/other_scripts.bat) - Another batch file for Windows-specific tasks.
+* [archived_doc_sender](https://github.com/antonko-de/scripts_and_utils/tree/master/py_scripts/archived_doc_sender) - Archives a folder with docs and sends them via smtp.
+
 
 **Utils**
 ---------
 
 The `utils` directory contains utility classes, libraries, or functions written in various programming languages.
 
-* [example_util.py](./utils/example_util.py) - A Python class providing a simple example of a utility function.
-* [other_utils.js](./utils/other_utils.js) - A JavaScript library for handling common tasks.
 
 **Usage**
 ---------
